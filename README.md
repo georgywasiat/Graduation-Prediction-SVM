@@ -1,2 +1,3 @@
 # graduation-prediction-ml
-Proyek "Prediksi Kelulusan Mahasiswa dengan Algoritma Support Vector Machine" bertujuan memanfaatkan machine learning, khususnya algoritma Support Vector Machine (SVM), untuk memprediksi kelulusan mahasiswa. Data yang digunakan melibatkan aspek akademis dan variabel terkait lainnya.
+
+This project aims to develop a web application that utilizes the Support Vector Machine (SVM) algorithm to predict student graduation. The application is built using the Flask framework in the Python programming language. By leveraging SVM and the Flask framework, users can easily access and utilize the student graduation prediction tool online via the web.
